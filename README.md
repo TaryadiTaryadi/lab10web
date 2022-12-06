@@ -53,7 +53,7 @@ $b->tampilWarna();
 ```
 
 - Output :
-![img1](assets/img/2.PNG)
+![img1](assets/img/2.png)
 
 ### 2. Buat file baru dengan nama form.php
 - Kode nya seperti dibawah ini :
@@ -123,4 +123,4 @@ echo "</body></html>";
 ```
 
 - Output
-![img1](assets/img/1.PNG)
+![img1](assets/img/1.png)
